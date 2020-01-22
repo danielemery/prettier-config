@@ -37,6 +37,10 @@ workflows:
   ci:
     jobs:
       - test
+          filters:
+            tags:
+              only:
+                 /.*/
       - publish:
           requires:
             - test
