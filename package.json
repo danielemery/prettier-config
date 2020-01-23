@@ -1,6 +1,6 @@
 {
   "name": "@danielemeryau/prettier-config",
-  "version": "0.0.6-test.0",
+  "version": "0.0.6",
   "description": "Prettier configuration to use with my personal projects",
   "main": "index.js",
   "scripts": {},
