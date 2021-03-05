@@ -4,7 +4,12 @@ My personal prettier config to be used in my personal projects.
 
 ## Usage
 
-Simply add this file to the root of the project you wish to configure.
+Install with:
+```
+npm i -D @danielemeryau/prettier-config
+```
+
+Then simply add this file to the root of the project you wish to configure.
 
 Without override
 
