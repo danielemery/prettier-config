@@ -30,3 +30,9 @@ module.exports = Object.assign(prettierConfig, {
   overrideKey: overrideValue
 });
 ```
+
+Once installing you can run the following to format your entire repository.
+
+```sh
+npx prettier --write .
+```
